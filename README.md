@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yunnieXx
+- 👋 Hi, I’m Matt P (aka yunnieXx)
 - 👀 I’m interested in art and computer science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on github
